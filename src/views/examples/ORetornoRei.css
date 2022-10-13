@@ -1,0 +1,24 @@
+.ORetornoRei h1{
+
+    color: gold;
+    font-style: italic;
+    padding-left: 2%;
+
+  }
+  
+  .ORetornoRei h2 {
+    color: white;
+    font-style: italic;
+    font-size: larger;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  
+  .ORetornoRei {
+    background-image: url("../../img/rei.jpg");
+    background-repeat: no-repeat;
+      background-position: 100%;
+      background-size: 100%;
+      height: 100%;
+      width: 100%;  
+    }

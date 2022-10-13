@@ -1,0 +1,16 @@
+
+.NotFound {    
+    background-image: url("../../img/anel.webp");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 100%;
+    width: 100%;
+}
+
+.NotFound p {
+    margin-top: 05%;
+    font-size: 50px;
+    font-style: italic;
+    margin-left: 30%;
+    color: gold;
+}

@@ -1,0 +1,24 @@
+.SociedadeAnel h1 {
+
+  color: gold;
+  font-style: italic;
+  padding-left: 2%;
+}
+
+.SociedadeAnel h2 {
+  color: white;
+  font-style: italic;
+  font-size: larger;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.SociedadeAnel {
+  background-image: url("../../img/sociedade.jpg");
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 100%;
+  height: 100%;
+  width: 100%;
+  opacity: 0.9;
+}
