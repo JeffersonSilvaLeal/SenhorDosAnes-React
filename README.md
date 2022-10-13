@@ -15,7 +15,8 @@
 ![3inicio](https://user-images.githubusercontent.com/74872760/195686567-0bdb7a89-7b90-43bf-9111-d9ee337760ca.png)
 
 ## Sobre
-[final](https://user-images.githubusercontent.com/74872760/195688414-ba23a236-ded4-427c-a1ef-adbc439232bb.png)
+![final](https://user-images.githubusercontent.com/74872760/195693454-65dc4d11-ca88-4dc2-acb6-8c307ca1d52e.png)
+
 
 # Getting St!
 arted with Create React App
