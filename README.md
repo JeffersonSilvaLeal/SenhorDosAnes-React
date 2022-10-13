@@ -1,3 +1,23 @@
+# Paginação ReactJs ultilizando o filme Senhor dos Aneis como Base
+
+## Onde ultilizamos a lib do react 'react-router-dom' para podermos implementar as rotas especificas..
+
+##  Sobre
+![Inicio](https://user-images.githubusercontent.com/74872760/195685502-8bc6a71e-16b9-4e9a-beb8-f842d1669e27.png)
+
+## O Retorno Do Rei
+![1inicio](https://user-images.githubusercontent.com/74872760/195686140-bc5af9b3-4aa2-4bf4-bf50-0edbb73afa52.png)
+
+## As Duas Torres
+![2inicio](https://user-images.githubusercontent.com/74872760/195686403-ba77f185-ac37-4785-8b80-5dcca5198252.png)
+
+## O Retorno Do Rei
+![3inicio](https://user-images.githubusercontent.com/74872760/195686567-0bdb7a89-7b90-43bf-9111-d9ee337760ca.png)
+
+## Sobre
+![4inicio](https://user-images.githubusercontent.com/74872760/195686739-783b8d76-ce38-474c-a681-aaa39df10c0c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
