@@ -15,10 +15,9 @@
 ![3inicio](https://user-images.githubusercontent.com/74872760/195686567-0bdb7a89-7b90-43bf-9111-d9ee337760ca.png)
 
 ## Sobre
-![4inicio](https://user-images.githubusercontent.com/74872760/195686739-783b8d76-ce38-474c-a681-aaa39df10c0c.png)
+# Getting St![final](https://user-images.githubusercontent.com/74872760/195688414-ba23a236-ded4-427c-a1ef-adbc439232bb.png)
 
-
-# Getting Started with Create React App
+arted with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
