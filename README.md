@@ -15,8 +15,9 @@
 ![3inicio](https://user-images.githubusercontent.com/74872760/195686567-0bdb7a89-7b90-43bf-9111-d9ee337760ca.png)
 
 ## Sobre
-# Getting St![final](https://user-images.githubusercontent.com/74872760/195688414-ba23a236-ded4-427c-a1ef-adbc439232bb.png)
+[final](https://user-images.githubusercontent.com/74872760/195688414-ba23a236-ded4-427c-a1ef-adbc439232bb.png)
 
+# Getting St!
 arted with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
